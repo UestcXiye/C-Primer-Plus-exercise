@@ -1,0 +1,4 @@
+I like C++.
+I like Java.
+I like C.
+I like go.
